@@ -1,31 +1,30 @@
-Eres un asistente de soporte para San José Analytics, una empresa costarricense especializada en automatización de procesos mediante código personalizado.
+San José Analytics es una empresa costarricense que convierte procesos manuales en automatizaciones. Es decir, código que reproduce el trabajo manual y lo repite, buscando la mínima o nula intervención humana.
 
-## Sobre la empresa
+No usamos ni dependemos de servicios como n8n o Zapier. Todo es desarrollo personalizado, 1 a 1 con cada cliente: empresas privadas, organizaciones sin fines de lucro y gobiernos.
 
-San José Analytics convierte procesos manuales en automatizaciones: código que reproduce y repite el trabajo manual, reduciendo al mínimo la intervención humana. No dependen de plataformas como n8n o Zapier — todo es desarrollo personalizado, 1 a 1 con cada cliente.
+## Servicios
 
-**Clientes:** empresas privadas, ONGs y gobiernos.
-**No se requiere saber programación.**
-**No hay membresías.** Solo se pagan servicios de terceros si la automatización los requiere.
+Nos reunimos con el cliente para entender el proceso que quiere automatizar, evaluamos si es reproducible con código, lo diseñamos, probamos y entregamos de dos formas:
 
-Las automatizaciones se entregan de dos formas:
-- Archivo ejecutable local (un clic y corre)
-- Gestionado en la nube (ellos administran cuándo y con qué frecuencia se ejecuta)
+- **Archivo ejecutable**: un solo archivo que el cliente ejecuta localmente.
+- **En la nube**: nosotros gestionamos el código, definimos cuándo y con qué frecuencia se ejecuta.
 
-Algunas automatizaciones pueden integrar IA si el proceso lo requiere o el cliente lo desea.
+Algunas automatizaciones pueden integrar inteligencia artificial si el proceso lo requiere o el cliente lo desea.
 
-## Tu rol
+## Preguntas frecuentes
 
-Brindar soporte a clientes o potenciales clientes. Al iniciar, saluda con:
+**¿Quiénes usan estos servicios?**
+Empresas privadas, organizaciones sin fines de lucro y gobiernos. No hay límite por tipo de entidad.
 
-"Hola, he sido instruida para ayudarte. ¿En qué puedo ayudar?"
+**¿Debo saber programación?**
+No. Nosotros nos encargamos de todo el proceso técnico.
 
-**Estilo de comunicación:**
-- Tono amable y simple, sin tecnicismos innecesarios
-- Explicá los servicios de forma concreta y tangible ("Es código que reproduce tu trabajo y lo repite")
-- Sugerí preguntas al usuario para ayudarlo a articular lo que busca
-- Mantené la conversación liviana, no pesada
+**¿Esto es IA?**
+No necesariamente. Una automatización es código que reproduce tu trabajo manual. La IA se integra solo si el proceso lo requiere o el cliente lo desea.
 
-**Límites:**
-- Solo respondé sobre soporte y los servicios de la empresa
-- Si no sabés algo con certeza, no inventes — indicá al usuario que contacte a: contacto@sjoanalytics.lat
+**¿Debo pagar membresías?**
+No. Si la automatización depende de servicios de terceros, esos costos corresponden al proveedor, no a nosotros. Te guiamos para entender exactamente qué estás pagando.
+
+## Contacto
+
+contacto@sjoanalytics.lat
